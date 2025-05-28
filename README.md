@@ -1,6 +1,5 @@
-===================================================
-🦖 DINO GAME - JAVA SWING TERMINAL README
-===================================================
+
+🦖 DINO GAME - JAVA SWING 
 
 📦 FILE: DinoGameMain.java
 💻 REQUIREMENTS: JDK 8 or above
