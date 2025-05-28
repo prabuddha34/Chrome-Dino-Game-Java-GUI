@@ -77,5 +77,3 @@ NOTE: Make sure your working directory contains the image assets
 
 Built with ❤️ using Java Swing
 Feel free to fork and expand!
-
-===================================================
