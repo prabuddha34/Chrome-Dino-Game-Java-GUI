@@ -67,6 +67,11 @@ NOTE: Make sure your working directory contains the image assets
 - Add start screen and pause functionality
 
 ---------------------------------------------------
+## SCREENSHOT
+
+![Screenshot 2025-05-28 164733](https://github.com/user-attachments/assets/effab6ee-2fcb-4db4-b67b-87d5deb6e620)
+
+
 🧑‍💻 AUTHOR
 ---------------------------------------------------
 
